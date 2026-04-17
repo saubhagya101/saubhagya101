@@ -10,3 +10,9 @@ I’m interested in creating QA systems where AI enhances efficiency, improves c
 
 
 
+## 🛠️ Skills & Technologies
+
+Python | SQL | Robot Framework | Postman | MySQL | Git
+
+**Currently Exploring**
+- AI in QA 
