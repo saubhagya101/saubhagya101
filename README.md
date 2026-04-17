@@ -1,4 +1,4 @@
-# Saubhagya Malla
+# I am Saubhagya Malla
 
 👋 QA Engineer exploring how AI can transform testing.
 
