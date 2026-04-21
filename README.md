@@ -19,6 +19,6 @@ Python | SQL | Robot Framework | Postman | MySQL | Git
 
 
 
-## 📫 Contact
+## 📫 Contacts
  
-- 💻 GitHub: [GitHub](https://github.com/saubhagya101)
+- 💻 GitHub: (https://github.com/saubhagya101)
